@@ -1,0 +1,66 @@
+.square {
+   height: 200px;
+
+    padding: 10px;
+    flex-basis: 25%;
+    border: 2px solid white
+}
+
+
+
+.container {
+    background-color: #000000;
+    height: 600px;
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    justify-content: center;
+    align-items: center;
+}
+.ball {
+    border-radius: 100%;
+}
+.one {
+   background-color: pink; 
+}
+
+
+
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.black {
+    background-color: black;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.pink {
+    background-color: pink;
+}
